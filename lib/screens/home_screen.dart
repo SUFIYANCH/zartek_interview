@@ -308,8 +308,10 @@ class _HomeScreenState extends ConsumerState<HomeScreen> {
                           SizedBox(
                               height: R.rh(65, context),
                               width: R.rw(60, context),
-                              child: Image.asset(
-                                "assets/salad.jpg",
+                              child: Image.network(
+                                category[page]
+                                    .categoryDishes![index]
+                                    .dishImage!,
                                 fit: BoxFit.cover,
                               ))
                         ],
