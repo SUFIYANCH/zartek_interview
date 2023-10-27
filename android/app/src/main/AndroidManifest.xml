@@ -1,6 +1,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
+       <uses-permission android:name="android.permission.INTERNET"/>
+
     <application
-        android:label="levelx_interview"
+        android:label="zartek_interview"
         android:name="${applicationName}"
         android:icon="@mipmap/launcher_icon">
         <activity
