@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1072106741288",
+    "project_id": "levelx-interview",
+    "storage_bucket": "levelx-interview.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072106741288:android:e802b02d0192e6634e1f1d",
+        "android_client_info": {
+          "package_name": "com.example.levelx_interview"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAysUyjwpCHXihGqbOc2fksI64sQ6sOrJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
